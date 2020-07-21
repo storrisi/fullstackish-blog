@@ -35,8 +35,6 @@ We all overcome our scare for technology, due to our survival spirit.
 
 # What’s the downside?
 
-![Image for post](https://miro.medium.com/max/30/1*zolK8B6IshaYC0Y-0g2rHg.jpeg?q=20)
-
 ![Image for post](https://miro.medium.com/max/473/1*zolK8B6IshaYC0Y-0g2rHg.jpeg)
 
 The problem that many CEO, Founder, and Small-Business owners face, is actually **which** solution introduce.\
