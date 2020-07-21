@@ -10,6 +10,8 @@ tags:
   - digital transformation
   - cloud transition
 ---
+![header image](/img/1_wa9hkuhiaa1enhto7yirdg.jpeg)
+
 In 2020, the World as we know it has suffered a huge impact due to the spread of the Covid-19 virus.
 
 Technology has played a key role during lockdowns all over the world.\
