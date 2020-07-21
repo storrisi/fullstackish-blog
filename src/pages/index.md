@@ -1,21 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Supporting Small Businesses Digital Transformation
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: A technology partner for your B2B Solutions
+subheading: A technology partner for your B2B Solutions
 mainpitch:
-  title: Why Kaldi
+  title: Why Fullstackish
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    You probably are in search of an ongoing partnership with a company that could stay at your side, and team with your internal IT department. Or, even better, become your entire IT department completely outsourced. This means that your current IT structure could continue operating, while we work with and for you to improve your processes, increase your digital transformation, or creating web and mobile applications that help your team and employees or your customers to reach their goals faster and better.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We'd love to serve long-lasting partnerships with small and medium companies. This is because our expertise could be critically important for those kinds of industries. You don't have to deal anymore with different providers, spend tons of time searching for new developers or outsourcing companies. Just one stable relationship with an experienced company within this kind of solutions.
 intro:
   blurbs:
     - image: /img/coffee.png
