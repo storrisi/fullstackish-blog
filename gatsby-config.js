@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Fullstackish Labs LTD Blog",
+    title: "Fullstackish Technology Blog",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "Read writing from Fullstackish Teams. Learn more about Fullstackish designs, builds, and operates Digital Transformation, Cloud Transition, B2B Solutions, Software Development for Small and Medium Businesses",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
@@ -72,6 +72,17 @@ module.exports = {
         purgeOnly: ["/all.sass"], // applies purging only on the bulma css file
       },
     }, // must be after other CSS plugins
-    "gatsby-plugin-netlify", // make sure to keep it last in the array
+    "gatsby-plugin-netlify", // make sure to keep it last in the array,
+    {
+      resolve: "gatsby-plugin-google-tagmanager",
+      options: {
+        id: "GTM-W3DSGG9",
+
+        // Include GTM in development.
+        //
+        // Defaults to false meaning GTM will only be loaded in production.
+        includeInDevelopment: false,
+      },
+    },
   ],
 };
